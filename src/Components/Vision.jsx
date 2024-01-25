@@ -9,7 +9,7 @@ function Vision() {
         <div className="xl:w-[50%] flex flex-col gap-16 justify-start items-start max-w-[580px]">
           <div className="flex flex-col gap-6 justify-start items-start">
             <p className="text-[#7DDA6F] text-2xl leading-normal">QLEER</p>
-            <p className="text-[#100530] font-bold leading-[70px] text-6xl">
+            <p className="text-[#100530] font-bold leading-[70px] text-4xl md:text-6xl">
               Notre vision
             </p>
             <p className="text-[#4C4C4C] text-2xl leading-normal">

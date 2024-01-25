@@ -37,7 +37,7 @@ function Services() {
         <div className="flex flex-col justify-center items-center gap-2 z-[1] max-w-[949px]">
           <p className="text-[#7DDA6F] text-2xl leading-normal">SERVICES</p>
           <div className="flex flex-col justify-center items-center gap-3 max-w-[#949px]">
-            <p className="text-[#100530] text-6xl font-bold leading-[70px] text-center">
+            <p className="text-[#100530] text-4xl md:text-6xl font-bold leading-[70px] text-center">
               Nos Services
             </p>
             <p className="text-[#586487] text-[20px] leading-normal text-center">

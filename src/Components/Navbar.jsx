@@ -39,7 +39,7 @@ function Navbar() {
                   href="#"
                   className="flex px-5 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                 >
-                  Home
+                  Product
                 </a>
               </li>
               <li>
@@ -47,7 +47,7 @@ function Navbar() {
                   href="#"
                   className="flex px-5 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                 >
-                  Acceuil
+                  Features
                 </a>
               </li>
               <li>
@@ -55,23 +55,7 @@ function Navbar() {
                   href="#"
                   className="flex px-5 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                 >
-                  Missions
-                </a>
-              </li>
-              <li>
-                <a
-                  href="#"
-                  className="flex px-5 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                >
-                  Services
-                </a>
-              </li>
-              <li>
-                <a
-                  href="#"
-                  className="flex px-5 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                >
-                  Expertise
+                  Marketplace
                 </a>
               </li>
               <li>
