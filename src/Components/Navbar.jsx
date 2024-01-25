@@ -10,11 +10,10 @@ function Navbar() {
       <div className="flex justify-between gap-3 items-center py-8 px-4 md:px-6 xl:px-24">
         <img src={logo} alt="_logo" />
         <div className="lg:flex justify-center items-center gap-12 hidden">
-          <a className="text-[#100530] text-lg leading-normal">Home</a>
-          <a className="text-[#100530] text-lg leading-normal">Acceuil</a>
-          <a className="text-[#100530] text-lg leading-normal">Missions</a>
-          <a className="text-[#100530] text-lg leading-normal">Services</a>
-          <a className="text-[#100530] text-lg leading-normal">Expertise</a>
+          <a className="text-[#100530] text-lg leading-normal">Product</a>
+          <a className="text-[#100530] text-lg leading-normal">Features</a>
+          <a className="text-[#100530] text-lg leading-normal">Marketplace</a>
+          <a className="text-[#100530] text-lg leading-normal">Company</a>
         </div>
         <button className="hidden lg:flex py-4 px-6 bg-[#105244] rounded text-white text-lg font-medium leading-normal">
           CONTACT US

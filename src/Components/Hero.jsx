@@ -5,7 +5,8 @@ function Hero() {
   return (
     <>
       <div className="flex flex-col gap-24 md:gap-6 md:flex-row justify-center items-center bg-[#070707] py-8 px-4 md:px-6 xl:px-24">
-        <div className="flex flex-col gap-24 justify-start items-center">
+        <div className="flex flex-col gap-20 justify-start items-start">
+          <h2 className="text-white text-xl font-semibold text-start">Qleer</h2>
           <p className="text-white max-w-[468px] text-lg">
             Avec une expertise solide dans la maitrise de l’energie et la
             comformite technique, notre entreprise s’engage a offirir une
