@@ -4,7 +4,7 @@ import circleBg from "../Assets/service-bg-1.svg";
 function Vision() {
   return (
     <>
-      <img src={circleBg} alt="_bg" className="absolute ml-[-657px]" />
+      <img src={circleBg} alt="_bg" className="absolute ml-[-657px] md:mt-[-100px]" />
       <div className="flex flex-col justify-center items-center xl:flex-row gap-16 lg:gap-[200px] py-12 px-4 md:px-6 xl:px-24">
         <div className="xl:w-[50%] flex flex-col gap-16 justify-start items-start max-w-[580px]">
           <div className="flex flex-col gap-6 justify-start items-start">

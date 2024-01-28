@@ -7,7 +7,7 @@ import tiktokIcon from "../Assets/tiktok-icon.svg";
 function Footer() {
   return (
     <>
-      <div className="flex justify-between items-center gap-6 flex-wrap bg-black pt-[50px] md:pt-[254px] pb-20 px-4 md:px-6 xl:px-24">
+      <div className="flex justify-between items-center gap-6 flex-wrap bg-black pt-[50px] md:pt-[60px]    pb-16 px-4 md:px-6 xl:px-24">
         <div className="flex flex-col gap-16 justify-start items-start max-w-[518px]">
           <div className="flex flex-col gap-8 justify-start items-start">
             <img src={logo} alt="_logo" />
